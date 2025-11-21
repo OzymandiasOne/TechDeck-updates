@@ -1,7 +1,8 @@
 {
-  "latest_version": "0.0.1",
-  "min_supported_version": "0.0.1",
+  "latest_version": "0.7.0",
+  "min_supported_version": "0.5.0",
   "critical": false,
-  "download_url": "https://example.com/TechDeck-0.0.1-setup.exe",
-  "release_notes": "Initial placeholder manifest for TechDeck updates."
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.7.0/TechDeck-Setup-0.7.0.exe",
+  "release_notes": "Added plugin execution system with real-time console output and progress tracking.",
+  "checksum_sha256": ""  // Optional: add later for security
 }
