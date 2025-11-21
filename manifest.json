@@ -1,0 +1,7 @@
+{
+  "latest_version": "0.0.1",
+  "min_supported_version": "0.0.1",
+  "critical": false,
+  "download_url": "https://example.com/TechDeck-0.0.1-setup.exe",
+  "release_notes": "Initial placeholder manifest for TechDeck updates."
+}
