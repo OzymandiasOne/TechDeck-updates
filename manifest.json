@@ -1,7 +1,7 @@
 {
   "latest_version": "0.7.2",
-  "min_supported_version": "0.5.0",
-  "critical": false,
+  "min_supported_version": "0.7.2",
+  "critical": true,
   "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.7.0/TechDeck-Setup-0.7.0.exe",
   "release_notes": "Added plugin execution system with real-time console output and progress tracking.",
   "checksum_sha256": ""
