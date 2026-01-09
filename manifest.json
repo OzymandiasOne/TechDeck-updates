@@ -1,8 +1,8 @@
 {
-  "latest_version": "0.7.2",
-  "min_supported_version": "0.7.2",
-  "critical": true,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.7.0/TechDeck-Setup-0.7.0.exe",
-  "release_notes": "Added plugin execution system with real-time console output and progress tracking.",
+  "latest_version": "0.7.4",
+  "min_supported_version": "0.7.3",
+  "critical": false,
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.7.4/TechDeck_v0.7.4.zip",
+  "release_notes": "v0.7.4 - Plugin tile tooltips, theme fixes, 5 bundled work script plugins (Pallet Stamper, Batch Repeater, LST Organizer, PO Packet Extractor, Part Sketch Extractor)",
   "checksum_sha256": ""
 }
