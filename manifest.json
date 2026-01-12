@@ -1,10 +1,10 @@
 {
-  "version": "0.7.6",
-  "latest_version": "0.7.6",
+  "version": "0.7.7",
+  "latest_version": "0.7.7",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
   "critical": false,
   "mandatory": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.7.6/TechDeck-0.7.6-Setup.exe",
-  "release_notes": "Fixed auto-update system: resolved GitHub download compatibility and enabled automatic installer launch."
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.7.7/TechDeck-0.7.7-Setup.exe",
+  "release_notes": "Fixed update checker: improved GitHub API parsing, version comparison logic, and error handling."
 }
