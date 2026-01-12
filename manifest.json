@@ -2,7 +2,7 @@
   "latest_version": "0.7.5",
   "min_supported_version": "0.7.4",
   "critical": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.7.4/TechDeck_v0.7.4.zip",
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.7.5/TechDeck_v0.7.5.zip",
   "release_notes": "Fixed checkbox visibility, dropdown arrow rendering, and refined light theme colors. Added professional Inno Setup installer.",
   "checksum_sha256": ""
 }
