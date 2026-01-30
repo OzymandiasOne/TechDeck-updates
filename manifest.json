@@ -1,6 +1,6 @@
 {
-  "version": "0.7.10",
-  "latest_version": "0.7.10",
+  "version": "0.8.0",
+  "latest_version": "0.8.0",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
   "critical": false,
