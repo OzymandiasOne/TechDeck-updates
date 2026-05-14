@@ -1,10 +1,10 @@
 {
-  "version": "0.8.3.2",
-  "latest_version": "0.8.3.2",
+  "version": "0.8.4",
+  "latest_version": "0.8.4",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
   "critical": false,
   "mandatory": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v.0.8.3.2/TechDeck-0.8.3.2-Setup.exe",
-  "release_notes": "911 Setup Bug Fix 2"
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v.0.8.4/TechDeck-0.8.4-Setup.exe",
+  "release_notes": "TechDeck v0.8.4 - The Spark Update\n\nNew plugin: 911 Remove Ticket\nPlugin personality system\nUI animations\nSerial plugin execution\nEaster eggs (check the terminal)\nBug fixes"
 }
