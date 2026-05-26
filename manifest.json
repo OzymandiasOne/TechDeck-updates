@@ -5,6 +5,6 @@
   "min_version": "0.7.0",
   "critical": false,
   "mandatory": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.5/TechDeck-0.8.5-Setup.exe",
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.5/TechDeck-v0.8.5-Setup.exe",
   "release_notes": "TechDeck v0.8.5 - The Forming Update\n\n922 FormSeeker finds and packages formed plate drawings automatically\n922 Kitting prints an entire batch's kitting paperwork in one shot\nLive theme switching - no more restarts\nSettings redesigned, plus a few new things to discover."
 }
