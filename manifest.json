@@ -1,10 +1,10 @@
 {
-  "version": "0.8.4.2",
-  "latest_version": "0.8.4.2",
+  "version": "0.8.5",
+  "latest_version": "0.8.5",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
   "critical": false,
   "mandatory": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.4.2/TechDeck-0.8.4.2-Setup.exe",
-  "release_notes": "TechDeck v0.8.4.2 - The Rave Update Pt 2\n\n911 Setup inspection sheet formatting restored\nApp icon now shows in title bar and taskbar\nReport Feedback icon fixed on Light and Salmon themes\nAdded more bells and whistles for you to discover."
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.5/TechDeck-0.8.5-Setup.exe",
+  "release_notes": "TechDeck v0.8.5 - The Forming Update\n\n922 FormSeeker finds and packages formed plate drawings automatically\n922 Kitting prints an entire batch's kitting paperwork in one shot\nLive theme switching - no more restarts\nSettings redesigned, plus a few new things to discover."
 }
