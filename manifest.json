@@ -1,10 +1,10 @@
 {
-  "version": "0.8.5.1",
-  "latest_version": "0.8.5.1",
+  "version": "0.8.5.2",
+  "latest_version": "0.8.5.2",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
-  "critical": false,
+  "critical": true,
   "mandatory": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.5.1/TechDeck-0.8.5.1-Setup.exe",
-  "release_notes": "TechDeck v0.8.5.1 - 911 Setup Upgrades\n\n911 Setup now shows a nest checklist before processing - pick the whole batch or just what you need\nMIL spec and material pull from each nest's own work packet, not a shared one\nEvery part row on NEST and SCRIBE VERIFICATION sheets gets filled\nScribe verification document copies into every nest folder automatically"
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.5.2/TechDeck-0.8.5.2-Setup.exe",
+  "release_notes": "Fixes a major packaging bug in 0.8.5.1 that prevented most plugins from loading. Tile icons now match the active theme."
 }
