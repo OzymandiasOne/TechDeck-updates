@@ -1,10 +1,10 @@
 {
-  "version": "0.8.5.2",
-  "latest_version": "0.8.5.2",
+  "version": "0.8.5.3",
+  "latest_version": "0.8.5.3",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
   "critical": true,
   "mandatory": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.5.2/TechDeck-0.8.5.2-Setup.exe",
-  "release_notes": "Fixes a major packaging bug in 0.8.5.1 that prevented most plugins from loading. Tile icons now match the active theme."
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.5.3/TechDeck-0.8.5.3-Setup.exe",
+  "release_notes": "Fixes a major packaging bug in 0.8.5.1 that prevented most plugins from loading. Tile icons now match the active theme. Fixed issue with cancel button now working."
 }
