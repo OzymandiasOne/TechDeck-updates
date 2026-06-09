@@ -1,10 +1,10 @@
 {
-  "version": "0.8.5.3",
-  "latest_version": "0.8.5.3",
+  "version": "0.8.5.4",
+  "latest_version": "0.8.5.4",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
-  "critical": true,
+  "critical": false,
   "mandatory": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.5.3/TechDeck-0.8.5.3-Setup.exe",
-  "release_notes": "Fixes a major packaging bug in 0.8.5.1 that prevented most plugins from loading. Tile icons now match the active theme. Fixed issue with cancel button not working."
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.5.4/TechDeck-0.8.5.4-Setup.exe",
+  "release_notes": "Minor bug and visual fixes. Removed /moth & /haiku from console. Added /friend"
 }
