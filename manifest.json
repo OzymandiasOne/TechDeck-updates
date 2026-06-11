@@ -1,10 +1,10 @@
 {
-  "version": "0.8.5.4",
-  "latest_version": "0.8.5.4",
+  "version": "0.8.5.5",
+  "latest_version": "0.8.5.5",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
   "critical": false,
   "mandatory": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.5.4/TechDeck-0.8.5.4-Setup.exe",
-  "release_notes": "Minor bug and visual fixes. Removed /moth & /haiku from console. Added /friend"
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.5.5/TechDeck-0.8.5.5-Setup.exe",
+  "release_notes": "911 Setup: quantity verification against nest packet PDFs with mismatch flagging, plus support for the new alphanumeric nest number format. Batch Auditor updated for the new format too."
 }
