@@ -1,10 +1,10 @@
 {
-  "version": "0.8.5.5",
-  "latest_version": "0.8.5.5",
+  "version": "0.8.6",
+  "latest_version": "0.8.6",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
   "critical": false,
   "mandatory": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.5.5/TechDeck-0.8.5.5-Setup.exe",
-  "release_notes": "911 Setup: quantity verification against nest packet PDFs with mismatch flagging, plus support for the new alphanumeric nest number format. Batch Auditor updated for the new format too."
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.6/TechDeck-0.8.6-Setup.exe",
+  "release_notes": "DXF Quoting app added. Report Feedback should now work on every machine. Plus window and layout fixes: no more clipping when maximized,\nthe Run button stays available with the console collapsed, a taller console, tighter Library packing, and cleaner missing-app tile handling."
 }
