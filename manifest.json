@@ -1,10 +1,10 @@
 {
-  "version": "0.8.6.1",
-  "latest_version": "0.8.6.1",
+  "version": "0.8.6.2",
+  "latest_version": "0.8.6.2",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
   "critical": true,
   "mandatory": true,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.6.1/TechDeck-0.8.6.1-Setup.exe",
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.6.2/TechDeck-0.8.6.2-Setup.exe",
   "release_notes": "911/922 apps now find the production-package folders automatically on every machine, no matter how OneDrive named the synced library — and a directory set manually for one app now helps every app, including Report Feedback, which previously showed Workbook Not Found on some machines. The Library page shows every installed app on first open. Customer DXF Quoting launches again after updating. A failed app launch no longer locks TechDeck until restart. Steel Tube Operation no longer freezes when A-Frames unlock. New: a one-click Debug Report on Settings > Help & Feedback — if something misbehaves on your machine, send the file it creates to the maintainer. Every release is now machine-verified for out-of-the-box readiness before it ships."
 }
