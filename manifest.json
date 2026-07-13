@@ -6,5 +6,5 @@
   "critical": false,
   "mandatory": false,
   "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.6.6/TechDeck-0.8.6.6-Setup.exe",
-  "release_notes": "Added new app: 911 911 LST Organizer. Updated Runtime Estimator app. Various minor quality of life changes."
+  "release_notes": "Added new app: 911 LST Organizer. Updated Runtime Estimator app. Various minor quality of life changes."
 }
