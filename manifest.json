@@ -1,10 +1,10 @@
 {
-  "version": "0.8.6.8",
-  "latest_version": "0.8.6.8",
+  "version": "0.8.6.9",
+  "latest_version": "0.8.6.9",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
   "critical": false,
   "mandatory": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.6.8/TechDeck-0.8.6.8-Setup.exe",
-  "release_notes": "Full 922 batch setup- including Teams."
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.6.9/TechDeck-0.8.6.9-Setup.exe",
+  "release_notes": "Refinements to 922 Setup app, 911 SSPO Award Review, and app icons."
 }
