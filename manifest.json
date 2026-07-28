@@ -1,10 +1,10 @@
 {
-  "version": "0.8.6.9",
-  "latest_version": "0.8.6.9",
+  "version": "0.8.6.10",
+  "latest_version": "0.8.6.10",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
   "critical": false,
   "mandatory": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.6.9/TechDeck-0.8.6.9-Setup.exe",
-  "release_notes": "Refinements to 922 Setup app, 911 SSPO Award Review, and app icons."
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.6.10/TechDeck-0.8.6.10-Setup.exe",
+  "release_notes": "Refinements to 911 SSPO Award Review, 911 Repeater, and feedback updates."
 }
