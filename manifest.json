@@ -1,10 +1,11 @@
 {
-  "version": "0.8.6.10",
-  "latest_version": "0.8.6.10",
+  "version": "0.8.6.11",
+  "latest_version": "0.8.6.11",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
   "critical": false,
   "mandatory": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.6.10/TechDeck-0.8.6.10-Setup.exe",
-  "release_notes": "Refinements to 911 SSPO Award Review, 911 Repeater, and feedback updates."
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.6.11/TechDeck-0.8.6.11-Setup.exe",
+  "sha256": "535405a3fc9ff5884d7cab1866bcf057d35f17fad83aab5e6874d3b5fbbaf3fe",
+  "release_notes": "911 Setup now creates the D911 modeling cards in Teams straight from the schedule, and marks each job's difficulty on the cover sheet. 922 Setup stamps pallets before pulling repeats, so repeat orders are no longer stamped for the wrong batch. 902 DXF Prep no longer reads a hidden staging sheet instead of the PO sheet. Customer DXF Analysis can apply customer guideline offsets automatically. Also fixes apps removed from a kit still running, and adds crash and freeze capture so a debug report sent after a restart still explains the problem."
 }
