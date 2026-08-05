@@ -1,11 +1,11 @@
 {
-  "version": "0.8.6.11",
-  "latest_version": "0.8.6.11",
+  "version": "0.8.6.12",
+  "latest_version": "0.8.6.12",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
   "critical": false,
   "mandatory": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.6.11/TechDeck-0.8.6.11-Setup.exe",
-  "sha256": "535405a3fc9ff5884d7cab1866bcf057d35f17fad83aab5e6874d3b5fbbaf3fe",
-  "release_notes": "911 Setup now creates the D911 modeling cards in Teams straight from the schedule, and marks each job's difficulty on the cover sheet. 922 Setup stamps pallets before pulling repeats, so repeat orders are no longer stamped for the wrong batch. 902 DXF Prep no longer reads a hidden staging sheet instead of the PO sheet. Customer DXF Analysis can apply customer guideline offsets automatically. Also fixes apps removed from a kit still running, and adds crash and freeze capture so a debug report sent after a restart still explains the problem."
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.6.12/TechDeck-0.8.6.12-Setup.exe",
+  "sha256": "b575b68758c80ef458b4d08fd7bc9341992fce198ee932f73bd416a694fde213",
+  "release_notes": "922 Setup creates Teams cards again - a regression in 0.8.6.11 meant the card post was accepted but no cards were created; re-running the stage is safe and never duplicates. FORMED tags now land on the plate, not the rod, for parts carrying both under one part number - re-run FormingFinder then Kitting on an affected batch to reprint. LST reports no longer count one tube twice when the PO and the shop file spell its revision letter differently, and the 911 organizer gets the same matching. Batch Repeater now checks each pulled repeat for its shop-print cut files up front instead of the gap surfacing on the end-of-batch LST report."
 }
