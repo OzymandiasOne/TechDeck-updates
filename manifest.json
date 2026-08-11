@@ -1,11 +1,11 @@
 {
-  "version": "0.8.6.12",
-  "latest_version": "0.8.6.12",
+  "version": "0.8.6.13",
+  "latest_version": "0.8.6.13",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
   "critical": false,
   "mandatory": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.6.12/TechDeck-0.8.6.12-Setup.exe",
-  "sha256": "b575b68758c80ef458b4d08fd7bc9341992fce198ee932f73bd416a694fde213",
-  "release_notes": "922 Setup creates Teams cards again - a regression in 0.8.6.11 meant the card post was accepted but no cards were created; re-running the stage is safe and never duplicates. FORMED tags now land on the plate, not the rod, for parts carrying both under one part number - re-run FormingFinder then Kitting on an affected batch to reprint. LST reports no longer count one tube twice when the PO and the shop file spell its revision letter differently, and the 911 organizer gets the same matching. Batch Repeater now checks each pulled repeat for its shop-print cut files up front instead of the gap surfacing on the end-of-batch LST report."
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.6.13/TechDeck-0.8.6.13-Setup.exe",
+  "sha256": "5be18629f3d8383427319244f8403a52f19bfcab2a3929dc365819360375abe7",
+  "release_notes": "911 Teams Cards is now its own app, so you can post cards without running a setup and run a setup without posting cards - it needs no batch number, and it opens a tick-list of every nest waiting on the EB 922 Schedule so you can card just the ones you want. The schedule's STATUS column now maintains itself: a nest moves off the card queue when its card is posted and off the setup queue once its batch is set up. 911 Setup remembers which steps you last chose to run, between sessions and across updates. Cancelling a run now reports as cancelled instead of playing the success sound and awarding tickets. Difficulty labels are working again - the schedule's rating column had been renamed and TechDeck was still looking for the old name, so packets and cards had quietly stopped showing a rating."
 }
