@@ -1,11 +1,11 @@
 {
-  "version": "0.8.6.13",
-  "latest_version": "0.8.6.13",
+  "version": "0.8.7",
+  "latest_version": "0.8.7",
   "min_supported_version": "0.7.4",
   "min_version": "0.7.0",
   "critical": false,
   "mandatory": false,
-  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.6.13/TechDeck-0.8.6.13-Setup.exe",
-  "sha256": "5be18629f3d8383427319244f8403a52f19bfcab2a3929dc365819360375abe7",
-  "release_notes": "911 Teams Cards is now its own app, so you can post cards without running a setup and run a setup without posting cards - it needs no batch number, and it opens a tick-list of every nest waiting on the EB 922 Schedule so you can card just the ones you want. The schedule's STATUS column now maintains itself: a nest moves off the card queue when its card is posted and off the setup queue once its batch is set up. 911 Setup remembers which steps you last chose to run, between sessions and across updates. Cancelling a run now reports as cancelled instead of playing the success sound and awarding tickets. Difficulty labels are working again - the schedule's rating column had been renamed and TechDeck was still looking for the old name, so packets and cards had quietly stopped showing a rating."
+  "download_url": "https://github.com/OzymandiasOne/TechDeck/releases/download/v0.8.7/TechDeck-0.8.7-Setup.exe",
+  "sha256": "c79e2d3d42fd0c6a21bb7ac327ae752b03839f98d128a3d877fa2c1ab309218f",
+  "release_notes": "There's a new Assistant tab in the sidebar - your own desk inside TechDeck. Talk to it and nothing gets filed behind your back: type what you like and Woogy answers, and it only becomes a task or a note when you actually ask. Tell it what's on your plate and it lays the day out as a real timetable - anything due today first, then whatever gives you the most back for the time it costs, with your estimates padded and your meetings and lunch worked around. Whatever won't fit is listed with the reason instead of quietly disappearing. Export the plan as a calendar file and it drops straight into Outlook, and TechDeck will also prompt you before each block starts, summarise the day each morning, and nudge you about anything past its date. There's a Tasks list and a Personal Notes tab with nested bullets alongside it. New app: 922 Difficulty Stamper carries the DIFFICULT label from the CAD models onto page one of the work packet, so a compound-cut part is visible to the floor - re-running never double-stamps, and a job that is no longer difficult has its old stamp removed. You can also set your own profile picture in My Account. Fixes: saving a PDF could fail on a file the app still had open, and the Build Your Own tile now shows the beyblade you actually built."
 }
